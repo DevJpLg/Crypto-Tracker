@@ -1,4 +1,4 @@
-# Crypto Tracker v1.0
+# Crypto Tracker
 
 - Program to know the real-time value of the main cryptocurrencies.
 
