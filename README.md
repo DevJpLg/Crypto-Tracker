@@ -1,6 +1,6 @@
 # Crypto Tracker
 
-- Program to know the real-time value of the main cryptocurrencies.
+- Program to know the real-time value of the most used cryptocurrencies in the market”.
 
 - **Requirements**
   - Python
