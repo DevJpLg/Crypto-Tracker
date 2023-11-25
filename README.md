@@ -6,7 +6,7 @@
   - Python
   - cryptocompare
 
-### Como rodar?
+### Setup
 
 `pip install cryptocompare`
 
